@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnDemandDemo</string>
+    <string name="title_feature1">future1</string>
+    <string name="title_feature2">feature2</string>
+</resources>
